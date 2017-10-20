@@ -12,5 +12,5 @@ pip install \
   h5py\
   tensorflow theano keras\
   numpy pymongo bcolz pymongo tqdm tables nltk\
-  requests statsmodels pymc=2.3.6
+  requests statsmodels pymc==2.3.6
 
